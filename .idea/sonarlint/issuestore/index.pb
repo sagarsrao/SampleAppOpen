@@ -1,0 +1,19 @@
+
+_
+/app/src/main/res/layout/activity_authorized.xml,4\1\41a000a5a4acd8761ceba767ce6d3dcf21202acb
+|
+Lapp/src/main/java/sampleapp/wolken/com/sampleappopen/AuthorizedActivity.java,6\0\60977b1306ba2fa398734e134da16a4f4b973d2d
+^
+.app/src/main/res/layout/activity_protected.xml,7\4\744d319013f6a54af1415289a77c7e5b4c326bd8
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+{
+Kapp/src/main/java/sampleapp/wolken/com/sampleappopen/ProtectedActivity.java,4\a\4a52e421516cdbfafea2ce8defad849525354ac6
+Y
+)app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+w
+Gapp/src/main/java/sampleapp/wolken/com/sampleappopen/LoginActivity.java,c\0\c0f3fe4a14ed23bd7129f99ca9b71742a1e5e85a
+^
+.app/src/main/res/raw/okta_app_auth_config.json,5\2\52ca93c47bbb4886722361b753dfc0b09efd8312
